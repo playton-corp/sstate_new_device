@@ -1,0 +1,8 @@
+{
+  "name": "sstate-group",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Защищённый кабинет учителя с персональными страницами учеников",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}
